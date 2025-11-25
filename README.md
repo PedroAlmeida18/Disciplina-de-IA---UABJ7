@@ -2,7 +2,7 @@
 
 ## Atividade 7: Perceptron
 
-**Aluno:** Pedro Henrique de Almeida Santos
+**Aluno:** Pedro Henrique de Almeida Santos e Cleyson Silva de Oliveira
 
 ---
 
